@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>0379.jpg</filename>
+	<path>E:\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\0379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>516</ymin>
+			<xmax>666</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>
